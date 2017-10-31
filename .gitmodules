@@ -1,0 +1,3 @@
+[submodule "calendar_builder"]
+	path = calendar_builder
+	url = https://github.com/collectiveidea/calendar_builder.git
